@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "39f0b638b2b4b489",
+    "type": "split",
+    "children": [
+      {
+        "id": "92db312e689869be",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ED/ED como expresiones de modelos matematicos.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "328801637f7f9b58",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b3e603d3e300f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf21aac286a3eab2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aee39214bc5d62dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7923f1f4c1f5ae0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a58a21671c40030",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a482694514ca22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ED/ED como expresiones de modelos matematicos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "92db312e689869be",
+  "lastOpenFiles": [
+    "ED/ED como expresiones de modelos matematicos.md",
+    "ED/Conceptos fundamentales y Terminologia.md",
+    "HUMANIDADES/Repaso Humanidades.md",
+    "CV/Formulas y Datos.md",
+    "IMG/vectores_de_una_recta.png",
+    "IMG/identidades_trigonometricas.png",
+    "IMG/angulos_notables.png",
+    "img001.png",
+    "Pasted image 20220615210209.png",
+    "Pasted image 20220615210729.png"
+  ]
+}
